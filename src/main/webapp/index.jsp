@@ -3,10 +3,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title> Welcome  to devops   </title>
+<title> Hi Genius Sudip   </title>
 <style>
   body {
-    background-color: red;
+    background-color: Blue;
   }
 </style>
 </head>
