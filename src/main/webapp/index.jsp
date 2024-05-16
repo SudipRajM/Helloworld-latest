@@ -6,7 +6,7 @@
 <title> Hi Genius Sudip   </title>
 <style>
   body {
-    background-color: Red;
+    background-color: yellow;
   }
 </style>
 </head>
