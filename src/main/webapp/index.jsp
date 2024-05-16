@@ -11,8 +11,8 @@
 </style>
 </head>
 <body>
-<h1>Hi Agastya </h1>
-<p>You are a Genius </p>
+<h1>Hi Sonali </h1>
+<p>You are a Idiot </p>
 </body>
 </html>
 
