@@ -6,13 +6,13 @@
 <title> Hi Genius Sudip   </title>
 <style>
   body {
-    background-color: blue;
+    background-color: red;
   }
 </style>
 </head>
 <body>
-<h1>Hi Sonali </h1>
-<p>You are a Idiot </p>
+<h1>Hi Sudip </h1>
+<p>You are a wonderful </p>
 </body>
 </html>
 
