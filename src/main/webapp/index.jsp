@@ -6,13 +6,13 @@
 <title> Hi Genius Sudip   </title>
 <style>
   body {
-    background-color: Red;
+    background-color: green;
   }
 </style>
 </head>
 <body>
 <h1>Hi Sudip </h1>
-<p>This is just the beginning </p>
+<p>Automation using maven build is green signal </p>
 </body>
 </html>
 
