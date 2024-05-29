@@ -24,7 +24,7 @@ pipeline {
         stage('Stage4-Testenv') {
             steps {
                 echo 'Hello World -Deploy'
-                deploy adapters: [tomcat8(credentialsId: 'admin_tomcat', path: '', url: 'http://3.131.158.249:8080/')], contextPath: null, war: '**/*.war'
+                deploy adapters: [tomcat8(credentialsId: '48ff949f-4db3-4c33-8c2c-181412babd61', path: '', url: 'http://3.131.158.249:8080/')], contextPath: null, war: '**/*.war'
             }
         }
         stage('Stage6-UAT') {
