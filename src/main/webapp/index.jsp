@@ -6,13 +6,13 @@
 <title> Hi Genius Sudip   </title>
 <style>
   body {
-    background-color: green;
+    background-color: Red;
   }
 </style>
 </head>
 <body>
 <h1>Hi Sudip </h1>
-<p>for now you are done </p>
+<p>This is just the beginning </p>
 </body>
 </html>
 
